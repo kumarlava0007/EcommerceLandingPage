@@ -1,0 +1,68 @@
+.navbar-style ul {
+    margin-left: 80px;
+}
+
+.navbar2 {
+    display: flex;
+    padding: 10px 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.search-button {
+    display: flex;
+    flex-direction: row;
+    margin-right: 15%;
+    margin-left: 4%;
+}
+
+.cart-and-user i{
+    border: 1px solid rgb(136, 136, 136);;
+    padding: 8px;
+    border-radius: 50%;
+}
+.rowing {
+    display: flex;
+    flex-direction: row;
+    margin-left: 80px;
+    align-items: center;
+}
+.widthing {
+    width: 85%;
+    height: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.pss {
+    margin-left: 15px;
+    font-weight: 500;
+}
+
+.stars {
+    color: orange;
+    font-size: 14px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box {
+    border: 1px solid rgba(0, 0, 0, 0.116);
+    width: 93%;
+    margin-right: 10px;
+    padding: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.box:hover {
+    border: 0.5px solid rgba(139, 138, 138, 0.329);
+    box-shadow: 0 0 7px 1px rgb(218, 218, 218);
+}
+.card3 {
+    display: flex;
+    flex-direction: row;
+}
+
+.ps {
+    margin-bottom: 0;
+}
